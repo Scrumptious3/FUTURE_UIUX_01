@@ -75,4 +75,4 @@ This project helped me improve:
 ---
 
 ## Author
-Designed by Siphokuhle Aphelele
+Designed by Siphokuhle Mdletshe
