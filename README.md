@@ -52,7 +52,7 @@ The interface uses a dark luxury visual identity featuring:
 ---
 
 ## Prototype Link
-(Add your Figma prototype link here)
+https://www.figma.com/make/j8DYVnZkNZUJIPcmjK4eKa/Booking-system-for-beauty-services?t=NvIyWuBhAUxhPYU1-1
 
 ---
 
