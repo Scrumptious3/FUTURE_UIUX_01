@@ -52,8 +52,7 @@ The interface uses a dark luxury visual identity featuring:
 ---
 
 ## Prototype Link
-https://www.figma.com/make/j8DYVnZkNZUJIPcmjK4eKa/Booking-system-for-beauty-services?t=NvIyWuBhAUxhPYU1-1
-
+https://www.figma.com/make/og3xFAiRvjtNtIhN3ikmm8/Remove-emojis-from-booking-system?t=9ywSuE7LbaVtHAhQ-1
 ---
 
 ## Screens Included
